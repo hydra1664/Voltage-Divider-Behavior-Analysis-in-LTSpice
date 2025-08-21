@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="V at 1k, 10k" src="https://github.com/user-attachments/assets/4817a3d0-2130-4b20-87f3-e44245b89c0a" /><img width="1920" height="1080" alt="V at 1k,1k" src="https://github.com/user-attachments/assets/67250db1-8170-4492-8dd1-01493a07b05e" /># Voltage Divider Behavior Analysis
+# Voltage Divider Behavior Analysis
 
 ## Overview
 This project focuses on simulating a basic voltage divider in LTSpice and studying how the output voltage changes when resistor values are varied. Voltage dividers are one of the most fundamental concepts in electronics and are widely used for biasing, reference generation, and signal scaling.
